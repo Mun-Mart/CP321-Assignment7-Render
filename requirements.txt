@@ -72,3 +72,4 @@ Werkzeug==3.0.6
 yarg==0.1.10
 yfinance==0.2.55
 zipp==3.21.0
+gunicorn
